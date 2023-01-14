@@ -1,6 +1,7 @@
 import About from "../pages/others/About";
 import Blog from "../pages/others/Blog";
 import Contact from "../pages/others/Contact";
+import ProjectDetails from "../pages/others/ProjectDetails";
 
 const { createBrowserRouter } = require("react-router-dom");
 const { default: Main } = require("../layout/Main");
@@ -26,6 +27,10 @@ export const router = createBrowserRouter([
             {
                 path: '/blog',
                 element: <Blog></Blog>
+            },
+            {
+                path: '/projects/:id',
+                element: <ProjectDetails></ProjectDetails>
             }
         ]
     }

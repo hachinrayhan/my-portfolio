@@ -5,7 +5,7 @@ const Navbar = () => {
     const navItems = <>
         <li><Link to={'/'}>Home</Link></li>
         <li><Link to={'/about'}>About Me</Link></li>
-        <li><Link to={'/files/Hachin Rayhan.pdf'} target="_blank">Download Resume</Link></li>
+        <li><Link to={'/files/Hachin Rayhan.pdf'} target="_blank">Resume</Link></li>
         <li><Link to={'/blog'}>Blog</Link></li>
         <li><Link to={'/contact'}>Contact</Link></li>
     </>

@@ -4,9 +4,9 @@ import emailjs from 'emailjs-com';
 import { useNavigate } from 'react-router-dom';
 
 
-const SERVICE_ID = "service_95g3b8f";
-const TEMPLATE_ID = "template_21j25xx";
-const USER_ID = "YELAFNbkU77HETB1q";
+const SERVICE_ID = process.env.REACT_APP_serviceId;
+const TEMPLATE_ID = process.env.REACT_APP_templateId;
+const USER_ID = process.env.REACT_APP_userId;
 
 const Contact = () => {
     const navigate = useNavigate();

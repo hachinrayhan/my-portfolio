@@ -1,0 +1,86 @@
+[
+    {
+        "id": "01",
+        "img1": "https://i.ibb.co/3p8FH19/Untitled.png",
+        "img2": "https://i.ibb.co/v3R7t98/Untitled2.png",
+        "img3": "https://i.ibb.co/KwcX8mr/Untitled3.png",
+        "img4": "https://i.ibb.co/K7L4X42/Untitled4.png",
+        "name": "Buy&Sell – UsedPhones",
+        "about": "This project is based on a used products resale market built with react.",
+        "technologies": [
+            "React",
+            "Tailwind",
+            "Firebase",
+            "Express",
+            "MongoDB"
+        ],
+        "features": [
+            "This site is for buying and selling second hand mobile",
+            "A user can create a Buyer Account if he wants to buy a used phone or he can create a Seller Account if he wants to sell his phone",
+            "A user can simply login with his Google Account but it will be a Buyer Account by default",
+            "A Seller can add a product, see his added products",
+            "A Buyer can Book a product for buying, see his booked product",
+            "On this site here is an Admin, he can manage all the Buyers and Sellers"
+        ],
+        "links": {
+            "clientSide": "https://github.com/hachinrayhan/used-products-resale-client",
+            "serverSide": "https://github.com/hachinrayhan/used-products-resale-server",
+            "liveSite": "https://a12-buy-and-sell.web.app/"
+        }
+    },
+    {
+        "id": "02",
+        "img1": "https://i.ibb.co/SmpXD95/Untitled5.png",
+        "img2": "https://i.ibb.co/KNHT957/Untitled6.png",
+        "img3": "https://i.ibb.co/0FXvQRJ/Untitled7.png",
+        "img4": "https://i.ibb.co/56BN1Pz/Untitled8.png",
+        "name": "HR's Window (A Service Review Site)",
+        "about": "This project is based on peoples' review on any service built with react.",
+        "technologies": [
+            "React",
+            "React Bootstrap",
+            "Firebase",
+            "Express",
+            "MongoDB"
+        ],
+        "features": [
+            "This site provides some online contents on WebDevelopment. Basically it's a service review Website. A user can give review for the contents provided by the site owner.",
+            "A user can login with his email and password or he can login with google.",
+            "If a user is logged in he can add a review for a content, see his all reviews.",
+            "A user can also delete and edit his review if he is logged in.",
+            "There are some private pages on this site. Without login a user cannot visit these pages."
+        ],
+        "links": {
+            "clientSide": "https://github.com/hachinrayhan/service-review-client",
+            "serverSide": "https://github.com/hachinrayhan/service-review-server",
+            "liveSite": "https://a-11-hrwindow.web.app/"
+        }
+    },
+    {
+        "id": "03",
+        "img1": "https://i.ibb.co/sJVFzPC/Untitled9.png",
+        "img2": "https://i.ibb.co/Vp1tbDq/Untitled10.png",
+        "img3": "https://i.ibb.co/X7SMXZH/Untitled11.png",
+        "img4": "https://i.ibb.co/9GR7dF5/Untitled12.png",
+        "name": "Test Prep (An Educational Website)",
+        "about": "This project is based on online learning platform built with react.",
+        "technologies": [
+            "React",
+            "React Bootstrap",
+            "Firebase",
+            "Express"
+        ],
+        "features": [
+            "It is an educational website which offers some courses on internationally recognized tests.",
+            "You can see the details about the course by tapping the 'Details' button.",
+            "You can get premium access if you are logged in.",
+            "There are three different login systems, Google, Github and Email-Password login.",
+            "You can create you new account with Google, Github or Email-Password."
+        ],
+        "links": {
+            "clientSide": "https://github.com/hachinrayhan/learning-platform-client",
+            "serverSide": "https://github.com/hachinrayhan/learning-platform-server",
+            "liveSite": "https://learning-platform-a10.web.app/"
+        }
+    }
+]
